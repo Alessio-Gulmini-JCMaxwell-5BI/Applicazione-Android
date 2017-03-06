@@ -2,7 +2,7 @@
 Realizzazione di un'applicazione Android tramite il quale l'utente può catalogare come meglio crede i propri film preferiti e non.
 
 Tempo stimato totale:
-200h.
+250h.
 
 Tempo stimato all'apprendimento di App Inventor:
 Minimo 30h.
