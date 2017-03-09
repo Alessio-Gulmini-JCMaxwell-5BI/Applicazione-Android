@@ -10,5 +10,5 @@ Minimo 30h.
 # Primo screen:
 L'utente esegue l'applicazione, nella prima schermata compare il login. Se non si ha un profilo sarà necessario registrarsi, che sarà una procedura molto veloce. 
 
-# Screen di registrazione
+# Screen di registrazione:
 L'utente inserisce i campi richiesti e clicca sul pulsante "Registrati!" per effettuare la registrazione all'applicazione.
