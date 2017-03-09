@@ -8,4 +8,7 @@ Realizzazione di un'applicazione Android tramite il quale l'utente può cataloga
 Minimo 30h.
 
 # Primo screen:
-L'utente esegue l'applicazione, nella prima schermata compare il login. Se non si ha un profilo bisogna registrarsi, che sarà una procedura molto veloce. 
+L'utente esegue l'applicazione, nella prima schermata compare il login. Se non si ha un profilo sarà necessario registrarsi, che sarà una procedura molto veloce. 
+
+# Screen di registrazione
+L'utente inserisce i campi richiesti e clicca sul pulsante "Registrati!" per effettuare la registrazione all'applicazione.
