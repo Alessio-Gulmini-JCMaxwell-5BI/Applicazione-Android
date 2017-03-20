@@ -12,3 +12,6 @@ L'utente esegue l'applicazione, nella prima schermata compare il login. Se non s
 
 # Screen di registrazione:
 L'utente inserisce i campi richiesti e clicca sul pulsante "Registrati!" per effettuare la registrazione all'applicazione.
+
+# Screen di ricerca:
+L'utente tramite questa schermata potrà inserire il titolo del film richiesto e ricercarlo.
