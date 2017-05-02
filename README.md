@@ -1,14 +1,11 @@
 # Filmologia
-L'idea nasce da una passione cominciata quasi per caso, dopo aver visto un film chiamato Drive. Lentamente questa passione si è fatta 
-sempre più grande, perciò il sottoscritto ha deciso di proporre per l'esame di maturità un progetto collegato alla settima arte, ovvero 
-quella del cinema.
-Consiste nel realizzare un'applicazione per dispositivi Android tramite il quale un utente potrà catalogare al meglio i propri film (visti 
-o da vedere) e assegnargli un voto. 
-I film sono tutti collegati ad un Database realizzato tramite MySQL.
+The idea comes from a passion that was born literally by chance, after seeing a film called Drive. Slowly this passion kept getting bigger, so I decided to try and make a project out of it and to present it at my final exams. The project's main topic is based around cinematography, which as you might've guessed is my passion. 
+The project consists in creating an application for Android devices where users can catalogue their films (seen or to see) and give them a rating. 
+The list of films was made with a Database done with MySQYL.
 
 ## Manuale d'uso
-L'applicazione è realizzata in Android Studio compatibile con tutti i dispositivi Android 4.4.0 in su.
-L'utilizzo è semplice, attualmente permette la registrazione dell'utente e la seguente catalogazione dei film desiderati, se presenti nel Database.
+The application is made in Android Studio and it is compatible with all 4.4.0 Android Devices and up.
+The use is very simple, at the moment it allows the registration and log in of the user and also to browse the list of films that are present in the Database.
 
 ## Gulmini Alessio Matteo
 I have been a cinema lover for quite a while and thought this could be a great project to present at my final exams. Through this project I have learned to use some functions of Android Studio and have also realised how hard it is to self teach something. This project is helping me grow and mature in certain ways.
