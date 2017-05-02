@@ -10,7 +10,7 @@ I film sono tutti collegati ad un Database realizzato tramite MySQL.
 L'applicazione è realizzata in Android Studio compatibile con tutti i dispositivi Android 4.4.0 in su.
 L'utilizzo è semplice, attualmente permette la registrazione dell'utente e la seguente catalogazione dei film desiderati, se presenti nel Database.
 
-# Gulmini Alessio Matteo
+## Gulmini Alessio Matteo
 I have been a cinema lover for quite a while and thought this could be a great project to present at my final exams. Through this project I have learned to use some functions of Android Studio and have also realised how hard it is to self teach something. This project is helping me grow and mature in certain ways.
 
 # Tutors
