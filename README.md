@@ -12,4 +12,4 @@ I have been a cinema lover for quite a while and thought this could be a great p
 
 ## Tutors
 Me, myself and I.
-But, other than being ironic it is true. I'm working on this project completely by myself but soon will have to show my teachers what I've been able to do and ask for some advice.
+But, other than being ironic it is true. I'm working on this project completely by myself but soon will have to show my teachers what I've been able to do and ask for some advice. 
