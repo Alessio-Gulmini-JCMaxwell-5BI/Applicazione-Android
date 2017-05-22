@@ -1,9 +1,12 @@
 # Filmologia
+## An application for sharing user liking about movies
 The idea comes from a passion that was born literally by chance, after seeing a film called Drive. Slowly this passion kept getting bigger, so I decided to try and make a project out of it and to present it at my final exams. The project's main topic is based around cinematography, which as you might've guessed is my passion. 
-The project consists in creating an application for Android devices where users can catalogue their films (seen or to see) and give them a rating. 
-The list of films was made with a Database done with MySQYL.
 
-## Manuale d'uso
+## Description
+The application is for Android devices and it allows users to catalogue their films (seen or to see) and give them a rating. 
+The list of films was made with a Database done with MySQL.
+
+## User Menu
 The application is made in Android Studio and it is compatible with all 4.4.0 Android Devices and up.
 The use is very simple, at the moment it allows the registration and log in of the user and also to browse the list of films that are present in the Database.
 
@@ -14,6 +17,6 @@ I have been a cinema lover for quite a while and thought this could be a great p
 Me, myself and I.
 But, other than being ironic it is true. I'm working on this project completely by myself but soon will have to show my teachers what I've been able to do and ask for some advice.
 
-## Collaboratori progetto
+## Project collaborators
 Alina Jianu 
 Luca Ignizio
