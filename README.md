@@ -19,4 +19,4 @@ But, other than being ironic it is true. I'm working on this project completely 
 
 ## Project collaborators
 Alina Jianu 
-Luca Ignizio
+Luca Igniz
